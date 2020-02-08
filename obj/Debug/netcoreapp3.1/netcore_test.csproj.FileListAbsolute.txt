@@ -1,3 +1,6 @@
+C:\development\netcore_test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\development\netcore_test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\development\netcore_test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\development\netcore_test\bin\Debug\netcoreapp3.1\netcore_test.exe
 C:\development\netcore_test\bin\Debug\netcoreapp3.1\netcore_test.deps.json
 C:\development\netcore_test\bin\Debug\netcoreapp3.1\netcore_test.runtimeconfig.json
@@ -5,7 +8,11 @@ C:\development\netcore_test\bin\Debug\netcoreapp3.1\netcore_test.runtimeconfig.d
 C:\development\netcore_test\bin\Debug\netcoreapp3.1\netcore_test.dll
 C:\development\netcore_test\bin\Debug\netcoreapp3.1\netcore_test.pdb
 C:\development\netcore_test\obj\Debug\netcoreapp3.1\netcore_test.csprojAssemblyReference.cache
+C:\development\netcore_test\obj\Debug\netcoreapp3.1\staticwebassets\netcore_test.StaticWebAssets.Manifest.cache
+C:\development\netcore_test\obj\Debug\netcoreapp3.1\staticwebassets\netcore_test.StaticWebAssets.xml
+C:\development\netcore_test\obj\Debug\netcoreapp3.1\netcore_test.MvcApplicationPartsAssemblyInfo.cache
 C:\development\netcore_test\obj\Debug\netcoreapp3.1\netcore_test.AssemblyInfoInputs.cache
 C:\development\netcore_test\obj\Debug\netcoreapp3.1\netcore_test.AssemblyInfo.cs
+C:\development\netcore_test\obj\Debug\netcoreapp3.1\netcore_test.RazorTargetAssemblyInfo.cache
 C:\development\netcore_test\obj\Debug\netcoreapp3.1\netcore_test.dll
 C:\development\netcore_test\obj\Debug\netcoreapp3.1\netcore_test.pdb
